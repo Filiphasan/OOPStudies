@@ -1,0 +1,6 @@
+C:\Users\HASAN\Desktop\C#\4-) Katmanlı Mimari (OOP)\Ogrenci_Not\EntityLayer\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\HASAN\Desktop\C#\4-) Katmanlı Mimari (OOP)\Ogrenci_Not\EntityLayer\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\HASAN\Desktop\C#\4-) Katmanlı Mimari (OOP)\Ogrenci_Not\EntityLayer\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\HASAN\Desktop\C#\4-) Katmanlı Mimari (OOP)\Ogrenci_Not\EntityLayer\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\Desktop\C#\4-) Katmanlı Mimari (OOP)\Ogrenci_Not\EntityLayer\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\HASAN\Desktop\C#\4-) Katmanlı Mimari (OOP)\Ogrenci_Not\EntityLayer\EntityLayer\obj\Debug\EntityLayer.pdb
